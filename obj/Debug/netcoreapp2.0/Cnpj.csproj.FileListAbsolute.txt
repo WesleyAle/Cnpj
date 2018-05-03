@@ -1,0 +1,10 @@
+C:\Users\wesley.abatista\Cnpj\bin\Debug\netcoreapp2.0\Cnpj.deps.json
+C:\Users\wesley.abatista\Cnpj\bin\Debug\netcoreapp2.0\Cnpj.runtimeconfig.json
+C:\Users\wesley.abatista\Cnpj\bin\Debug\netcoreapp2.0\Cnpj.runtimeconfig.dev.json
+C:\Users\wesley.abatista\Cnpj\bin\Debug\netcoreapp2.0\Cnpj.dll
+C:\Users\wesley.abatista\Cnpj\bin\Debug\netcoreapp2.0\Cnpj.pdb
+C:\Users\wesley.abatista\Cnpj\obj\Debug\netcoreapp2.0\Cnpj.csproj.CoreCompileInputs.cache
+C:\Users\wesley.abatista\Cnpj\obj\Debug\netcoreapp2.0\Cnpj.AssemblyInfoInputs.cache
+C:\Users\wesley.abatista\Cnpj\obj\Debug\netcoreapp2.0\Cnpj.AssemblyInfo.cs
+C:\Users\wesley.abatista\Cnpj\obj\Debug\netcoreapp2.0\Cnpj.dll
+C:\Users\wesley.abatista\Cnpj\obj\Debug\netcoreapp2.0\Cnpj.pdb
